@@ -1,0 +1,1 @@
+web: gunicorn lahenkenius2.wsgi --log-file -
