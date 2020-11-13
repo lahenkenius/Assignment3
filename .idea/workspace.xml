@@ -24,52 +24,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4103014c-cb87-4ecc-8b54-a5be3fd7266f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyFootball/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyFootball/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyFootball/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyFootball/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyFootball/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FantasyFootball/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FantasyFootball.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FantasyFootball/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FantasyFootball/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FantasyFootball/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FantasyFootball/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/League/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/game_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/team_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="4103014c-cb87-4ecc-8b54-a5be3fd7266f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605297921475</updated>
-      <workItem from="1605297962748" duration="582000" />
+      <workItem from="1605297962748" duration="1016000" />
     </task>
     <servers />
   </component>
