@@ -21,4 +21,3 @@ class Game(models.Model):
 
      def __str__(self):
          return str(self.game_number)
-

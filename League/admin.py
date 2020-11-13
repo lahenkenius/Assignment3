@@ -18,3 +18,4 @@ class GameList(admin.ModelAdmin):
 
 admin.site.register(Team)
 admin.site.register(Game)
+
