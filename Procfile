@@ -1,1 +1,1 @@
-web: gunicorn FantasyFootball.wsgi --log-file -
+web: gunicorn Assignment3.wsgi --log-file -
