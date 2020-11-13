@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'League.apps.LeagueConfig',
     'django.contrib.postgres',
+
 ]
 
 MIDDLEWARE = [
