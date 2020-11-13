@@ -24,18 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4103014c-cb87-4ecc-8b54-a5be3fd7266f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/game_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/team_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="4103014c-cb87-4ecc-8b54-a5be3fd7266f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605297921475</updated>
-      <workItem from="1605297962748" duration="1323000" />
+      <workItem from="1605297962748" duration="1699000" />
     </task>
     <servers />
   </component>
